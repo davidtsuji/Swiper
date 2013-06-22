@@ -1,8 +1,8 @@
 {
 	"name":"swiper",
-	"main":"dist/idangerous.swiper-1.5.5.js",
+	"main":"dist/idangerous.swiper-2.0.js",
 	"scripts":[
-		"dist/idangerous.swiper-1.5.5.js"
+		"dist/idangerous.swiper-2.0.js"
 	],
 	"styles":[
 		"dist/idangerous.swiper.css"
