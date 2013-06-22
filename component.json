@@ -1,0 +1,13 @@
+{
+	"name":"swiper",
+	"main":"dist/idangerous.swiper-1.5.5.js",
+	"scripts":[
+		"dist/idangerous.swiper-1.5.5.js"
+	],
+	"styles":[
+		"dist/idangerous.swiper.css"
+	],
+	"dependencies":{
+		"component/jquery":"*"
+	}
+}
