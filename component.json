@@ -7,7 +7,5 @@
 	"styles":[
 		"dist/idangerous.swiper.css"
 	],
-	"dependencies":{
-		"component/jquery":"*"
-	}
+	"dependencies":{}
 }
